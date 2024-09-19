@@ -1,0 +1,12 @@
+{
+  "name": "superfrete-cypress-web",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "e2e.js",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "cypress-qase-reporter": "^1.4.3"
+  }
+}
